@@ -3,8 +3,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## About
-
 #### Who I am
 
 I'm Robin Veinan, a Senior Cloud & DevOps Engineer with a degree in Business and IT, bringing over 8 years of hands-on experience in the industry. My competency allows me to bridge the gap between technical and business needs, enabling me to design and implement robust, scalable cloud solutions tailored to my clients' requirements.
