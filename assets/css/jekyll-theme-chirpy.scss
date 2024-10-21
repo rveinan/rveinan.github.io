@@ -1,0 +1,19 @@
+---
+---
+
+@import 'main
+{%- if jekyll.environment == ' production
+  ' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+span[data-bs-toggle='tooltip'] {
+  display: none;
+}
+
+p a[data-bs-toggle='tooltip'] {
+  display: none;
+}
