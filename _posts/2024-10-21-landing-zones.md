@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Azure Landing Zones"
 date: 2024-10-21 17:00:00 +0100
 description: "What is a landing zone?"
