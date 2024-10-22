@@ -9,8 +9,8 @@ tags:
     Landing Zones
   ]
 image:
-  path: /assets/img/azure-landing-zone.jpeg
-  src: /assets/img/azure-landing-zone.jpeg
+  path: /assets/img/azure-landing-zone.png
+  src: /assets/img/azure-landing-zone.png
 ---
 # What is an Azure landing zone?
 
