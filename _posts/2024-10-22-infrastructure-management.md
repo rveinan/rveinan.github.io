@@ -1,16 +1,16 @@
 ---
 title: "Provision and manage infrastructure with IaC using GitHub and Azure"
 date: 2024-10-22 17:00:00 +0100
-description: "Accelerate cloud operations by leveraging enterprise-level automation with Infrastructure-as-Code (IaC). Deploy a comprehensive set of best practices and automated procedures using GitHub and Azure to ensure your cloud ecosystem's speed, consistency, security, and compliance."
+description: "Accelerate cloud operations by leveraging enterprise-level automation with Infrastructure-as-Code (IaC)."
 categories: [
   Azure,
   GitHub
   ]
 tags:
   [
-    GitHub,
     Microsoft Azure,
     Landing Zones,
+    GitHub,
     Infrastructure,
     IaC
   ]
