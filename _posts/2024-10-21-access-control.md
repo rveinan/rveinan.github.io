@@ -1,7 +1,7 @@
 ---
 title: "How can access to a landing zone be managed?"
 date: 2024-10-21 17:00:00 +0100
-description: "Discover key concepts like principals, roles, permissions, and scope and the use of PIM (Privileged Identity Management) to control temporary access."
+description: "Discover key concepts like principals, roles, permissions, and scope and the use of Privileged Identity Management."
 
 categories: [Azure]
 tags:
@@ -19,7 +19,7 @@ image:
 
 Access to landing zones can be managed using Azure RBAC (Role-Based Access Control). The way you control access to resources by using Azure RBAC is through role assignments, which can be broken down into the following:
 
-![Access](/assets/img/access.jpg "Access")
+###### Role assignment = Principal (Who) + Permission (What) + Scope (Where)
 
 #### Principal
 

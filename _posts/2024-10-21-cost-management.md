@@ -1,7 +1,8 @@
 ---
 title: "Cost Management and Control"
 date: 2024-10-21 18:00:00 +0100
-description: "Discover how Azure Landing Zones establish a secure, scalable foundation for deploying workloads in Azure."
+description: "This involves managing and controlling cloud costs by addressing common challenges in Azure."
+
 categories: [Azure]
 tags:
   [
