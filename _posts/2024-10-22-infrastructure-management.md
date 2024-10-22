@@ -1,6 +1,6 @@
 ---
 title: "Provision and manage infrastructure with IaC using GitHub and Azure"
-date: 2024-10-22 17:00:00 +0100
+date: 2024-10-21 17:00:00 +0100
 description: "Accelerate cloud operations by leveraging enterprise-level automation with Infrastructure-as-Code (IaC)."
 categories: [
   Azure,
