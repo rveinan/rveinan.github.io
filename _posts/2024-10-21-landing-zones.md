@@ -1,7 +1,7 @@
 ---
 title: "Landing Zones"
 date: 2024-10-21 17:00:00 +0100
-description: "Discover how Azure Landing Zones establish a secure, scalable foundation for deploying workloads in Microsoft Azure, enhancing your enterprise's cloud adoption journey with confidence"
+description: "Discover how Azure Landing Zones establish a secure, scalable foundation for deploying workloads in Microsoft Azure, enhancing your enterprise's cloud adoption journey with confidence."
 categories: [Azure]
 tags:
   [
