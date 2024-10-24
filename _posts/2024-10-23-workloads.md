@@ -10,8 +10,8 @@ tags:
     Workloads,
   ]
 image:
-  path: /assets/img/workloads.png
-  src: /assets/img/workloads.png
+  path: /assets/img/workload.jpg
+  src: /assets/img/workload.jpg
 ---
 
 ## What is a workload?
