@@ -30,7 +30,7 @@ Additionally, organizations should prioritize workflows that enable collaborativ
 |---------------------------|-------------------------------------------------------------------------------------------------   |
 | **Declarative Code** | Define infrastructure in reproducible code using IaC (Infrastructure as Code). |
 | **Automated CI/CD Pipelines** | Enable scalable deployments through CI/CD pipelines. |
-| **Audit and Change Management** | Manage changes via Git merge requests, with reviews and formal approvals logged for auditing purposes. |
+| **Audit and Change Management** | Manage changes via Git merge requests, reviews and approvals for audit. |
 
 ## What does it look like in practice?
 ![Infrastructure](/assets/img/infrastructure-provisioning.png "Infrastructure")

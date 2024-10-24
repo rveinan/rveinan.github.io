@@ -9,8 +9,8 @@ tags:
     Landing Zones
   ]
 image:
-  path: /assets/img/cloud.jpg
-  src: /assets/img/cloud.jpg
+  path: /assets/img/challenges.jpg
+  src: /assets/img/challenges.jpg
 ---
 
 ## What are common challenges with landing zones?
