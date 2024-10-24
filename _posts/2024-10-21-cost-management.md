@@ -1,13 +1,13 @@
 ---
 title: "Cost Management and Control"
 date: 2024-10-21 18:00:00 +0100
-description: "This involves managing and controlling cloud costs by addressing common challenges in Azure."
+description: "Manage and control cloud costs by addressing common challenges and measures in Azure."
 
 categories: [Azure]
 tags:
   [
     Microsoft Azure,
-    Cost Management
+    Cost Management,
   ]
 image:
   path: /assets/img/cost.jpg

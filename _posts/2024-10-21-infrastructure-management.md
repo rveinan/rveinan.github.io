@@ -16,7 +16,7 @@ image:
   src: /assets/img/code.jpg
 ---
 
-## What should your organization consider when looking to provision and manage cloud infrastructure?
+## What should your organization consider when looking to provision and manage cloud infrastructure through code?
 
 When your organization is looking to provision and manage infrastructure in the cloud, several key considerations should guide the process. First, adopting cloud automation and infrastructure-as-code practices is essential for ensuring consistency, reducing manual errors, and accelerating deployment times. Establishing standardized, opinionated approaches, often called "paved roads," can simplify deployment and management by offering predefined best practices for cloud operations.
 
@@ -24,16 +24,19 @@ Collaboration across teams, particularly between a CCoE team and developer teams
 
 Additionally, organizations should prioritize workflows that enable collaborative change management, ensuring that all changes are auditable and traceable. Leveraging a reliable and scalable tech stack is also important, as it ensures the infrastructure can support growth and handle complex workloads in large organizations. Finally, ensuring that all processes are scalable and able to accommodate future growth is key to long-term success in cloud infrastructure management.
 
-## Provisioning and managing infrastructure through GitHub and IaC
+## Provision and manage infrastructure through GitHub and IaC
 
-| **Declarative Code** | **Automated CI/CD Pipelines** | **Audit and Change Management** |
-|----------------------|-------------------------------|----------------------------------|
-| Define infrastructure in clear, reproducible code using IaC. | Enable scalable deployments with reduced manual effort through CI/CD pipelines. | Manage changes via git merge requests, with collaboration, reviews, and formal approvals logged for auditing. |
+| **Features**            | **Description**                                                                                    |
+|---------------------------|-------------------------------------------------------------------------------------------------   |
+| **Declarative Code** | Define infrastructure in reproducible code using IaC (Infrastructure as Code). |
+| **Automated CI/CD Pipelines** | Enable scalable deployments through CI/CD pipelines. |
+| **Audit and Change Management** | Manage changes via Git merge requests, with reviews and formal approvals logged for auditing purposes. |
 
 ## What does it look like in practice?
 ![Infrastructure](/assets/img/infrastructure-provisioning.png "Infrastructure")
 
-## Which solutions should you build for platform and management?
+## What solutions should you implement for effective platform governance and management?
+
 #### Landing Zone Management  
 Automated deployment and configuration of Azure subscriptions and Git repositories.
 

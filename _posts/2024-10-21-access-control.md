@@ -15,11 +15,9 @@ image:
   src: /assets/img/access.jpg
 ---
 
-## How can access to a landing zone be managed?
-
 Access to landing zones can be managed using Azure RBAC (Role-Based Access Control). The way you control access to resources by using Azure RBAC is through role assignments, which can be broken down into the following:
 
-###### Role assignment = Principal (Who) + Permission (What) + Scope (Where)
+**Role assignment = Principal (Who) + Permission (What) + Scope (Where)**
 
 #### Principal
 
@@ -33,13 +31,13 @@ A role definition is a collection of permissions, commonly referred to as a role
 
 For permissions, the scope refers to the set of resources the permissions apply to. When assigning a role, actions can be restricted by defining the scope. Example below:
 
-| **Permission**            | **Description**                                                                                 |
-|---------------------------|-------------------------------------------------------------------------------------------------|
-| **Cost Management Contributor** | Can view costs and manage cost configuration (e.g., budgets and alerts)                              |
-| **Owner**                  | Provides full access to manage all resources, including the ability to assign roles in Azure RBAC |
-| **Reader**                 | Can view all resources but cannot make changes                                                  |
-| **Contributor**            | Provides full access to manage all resources but does not allow assigning roles in Azure RBAC    |
-| **Key Vault Administrator**| Grants access to Key Vault and objects within it, including certificates, keys, and secrets      |
+| **Permission**            | **Description**                                                                                    |
+|---------------------------|-------------------------------------------------------------------------------------------------   |
+| **Cost Management Contributor** | Can view costs and manage cost configuration (e.g., budgets and alerts)                      |
+| **Owner**                  | Provides full access to manage all resources and assign RBAC roles  |
+| **Reader**                 | Can view all resources but cannot make changes                                                    |
+| **Contributor**            | Provides full access to manage all resources, but not assign RBAC roles  |
+| **Key Vault Administrator**| Grants access to Key Vault and objects within it (keys, secrets, certificates)       |
 
 #### Group
 
@@ -53,6 +51,6 @@ A starting point for permissions can be like this:
 
 | **Corp and Online**         | **Role** | **Permissions** |
 |-----------------------------|----------|-----------------|
-| **Owner**                   | Cost Management Contributor | **SG-Owner** |
-| **Admin**                   | [PIM]: Owner [Permanent]: Reader | **SG-Admin** |
-| **Developer**               | [PIM]: Contributor [PIM]: Key Vault Administrator [Permanent]: Reader | **SG-Developer** |
+| **Owner**                   | Cost Management Contributor | SG-Owner |
+| **Admin**                   | [PIM]: Owner [Permanent]: Reader | SG-Admin |
+| **Developer**               | [PIM]: Contributor [PIM]: Key Vault Administrator [Permanent]: Reader | SG-Developer |
