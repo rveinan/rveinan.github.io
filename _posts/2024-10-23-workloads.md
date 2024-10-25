@@ -1,7 +1,7 @@
 ---
 title: "Workloads"
 date: 2024-10-23 18:00:00 +0100
-description: "Explore the concept of workloads in Azure, including their definition, practical implications, and essential requirements."
+description: "Explore the concept of workloads in Azure, including their definition and essential requirements."
 
 categories: [Azure]
 tags:
