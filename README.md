@@ -1,4 +1,4 @@
-# 🚀 Welcome to Robin Veinans' Blog Repository 🌩️
+# Welcome to Robin Veinans' Blog Repository
 
 > Your guide to Cloud, DevOps, and all things automation.
 
@@ -29,7 +29,7 @@ Your input and contributions are welcome! From bug fixes to new script additions
 
 ## 📡 Connect With Me
 
-- **LinkedIn**: [Stay in the loop on LinkedIn](https://www.linkedin.com/in/veinan/)—I love connecting with fellow tech enthusiasts!
+- **LinkedIn**: [Stay in the loop on LinkedIn](https://www.linkedin.com/in/veinan/) - I love connecting with fellow tech enthusiasts!
 
 ## 📂 Repository Structure
 
@@ -42,8 +42,6 @@ Your input and contributions are welcome! From bug fixes to new script additions
 ## 📜 License
 
 This repository is open-source and published under the MIT License. Feel free to explore, learn, and contribute!
-
-Happy Coding! 😊
 
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
