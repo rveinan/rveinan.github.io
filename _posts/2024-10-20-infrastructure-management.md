@@ -1,6 +1,6 @@
 ---
 title: "Provision and manage infrastructure with IaC using GitHub and Azure"
-date: 2024-10-21 19:00:00 +0100
+date: 2024-10-20 18:00:00 +0100
 description: "Accelerate cloud operations by leveraging enterprise-level automation with Infrastructure-as-Code (IaC)."
 categories: [GitHub]
 tags:
@@ -37,19 +37,19 @@ Additionally, organizations should prioritize workflows that enable collaborativ
 
 ## What solutions should you implement for effective platform governance and management?
 
-#### Landing Zone Management  
+### Landing Zone Management  
 Automated deployment and configuration of Azure subscriptions and Git repositories.
 
-#### Policy Management  
+### Policy Management  
 Governance at scale using Azure policies managed through Infrastructure-as-Code (IaC).
 
-#### Workload deployment  
+### Workload deployment  
 Orchestrate resource deployment at scale for workloads.
 
-#### Automated documentation  
+### Automated documentation  
 Generate and update workload documentation automatically based on infrastructure code.
 
-#### Repositories and structure   
+### Repositories and structure   
 A good practice is having at least 3 management repositories: 
 - Policy Management
   - Repository that should contain all Azure policies.
@@ -58,7 +58,7 @@ A good practice is having at least 3 management repositories:
 - Workload Management
   - Repository that should manage all workload repositories 
 
-#### GitHub Governance  
+### GitHub Governance  
 You should use branch protection rules, PR Gates (e.g. validation and build) and a commit message convention.
 
 ## Summary
