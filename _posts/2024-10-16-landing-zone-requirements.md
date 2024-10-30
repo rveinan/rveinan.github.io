@@ -1,5 +1,5 @@
 ---
-title: "Mastering Azure Landing Zones: Overcoming challenges and meeting key requirements"
+title: "Azure Landing Zones: Overcoming challenges and meeting key requirements"
 date: 2024-10-16 18:00:00 +0100
 description: "Gain understanding of the essential challenges and critical requirements for implementing Azure Landing Zones."
 categories: [Azure]

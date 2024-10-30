@@ -1,5 +1,5 @@
 ---
-title: "Cost Management and Control"
+title: "Cost management and control"
 date: 2024-10-18 18:00:00 +0100
 description: "Manage and control cloud costs by addressing common challenges and measures in Azure."
 
